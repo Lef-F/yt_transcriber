@@ -3,6 +3,9 @@
 Ever needed to get the text from that unpopular video on YouTube that does not have auto-generated captions?
 Look no further! The YouTube transcriber will do that for you using Google's Speech-to-Text API.
 
+**True story:** I made this simple YouTube video transcriber for my gf, because she was translating some videos for her job.
+Initially she had to listen, transcribe and then translate. Now she only needs a quick pass to correct the speech-to-text mistakes and take her time with translation, while her colleagues have to do the whole thing manually 100%. I think she likes me more now.
+
 ## Install
 
 **Clone this repo:**

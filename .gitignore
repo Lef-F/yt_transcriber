@@ -1,0 +1,5 @@
+# Ignore output folder
+transcriptions/
+
+# Ignore dev stuff
+.vscode
